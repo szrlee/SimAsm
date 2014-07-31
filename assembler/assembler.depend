@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1406717096 source:/home/richard/code/C/SimAss/assembler/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
