@@ -1,4 +1,4 @@
 SimAsm
 ======
 
-It's Simulator and Assembler.
+Simulator and Assembler for Specific ISA.
